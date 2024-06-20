@@ -2,5 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="azul_claro">#CAE9FF</color>
+    <color name="azul_claro">#Cae9ff</color>
+    <color name="azul_claroV2">#89cceb</color>
+    <color name="light_blue">#C0D9D9</color>
+    <color name="lightSeaBlue">#20B2AA</color>
+    <color name="azul">#4f8699</color>
+    <color name="azul_escuro">#003f69</color>
+    <color name="red">#F44336</color>
+    <color name="azul_escuroV2">#CB2E4265</color>
+
 </resources>
